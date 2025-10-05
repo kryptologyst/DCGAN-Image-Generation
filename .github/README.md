@@ -34,8 +34,8 @@ Generate realistic images from random noise using state-of-the-art GAN technique
 ## 🛠️ Installation
 
 ```bash
-git clone <repository-url>
-cd 0133_DCGAN_for_image_generation
+git clone https://github.com/kryptologyst/DCGAN-Image-Generation.git
+cd DCGAN-Image-Generation
 pip install -r requirements.txt
 python setup.py
 ```
